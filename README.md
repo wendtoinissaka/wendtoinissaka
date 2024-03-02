@@ -4,7 +4,7 @@
 
 # Bienvenue👋 sur mon profil GitHub !
 
-Je suis WENDTOIN ISSAKA OUEDRAOGO, un développeur passionné par le développement web et modile et l'analyse des données.
+Je suis <div style="font-size:40px; font-weight:bold"> WENDTOIN ISSAKA OUEDRAOGO</div> , un développeur passionné par le développement web et modile et l'analyse des données.
 
 ## Projets importants
 
