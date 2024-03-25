@@ -13,7 +13,7 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 
 ## Portfolio
 
-- [Portfolio en ligne](https://github.com/wendtoinissaka/Decentralized-Project-Voting.git) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
+- [Portfolio en ligne](https://github.com/wendtoinissaka/wendtoinissaka/blob/main/README.md) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
 
 ## Contact
 
