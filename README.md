@@ -4,7 +4,7 @@
 
 # Bienvenue👋 sur mon profil GitHub !
 
-Je suis **WENDTOIN ISSAKA OUEDRAOGO**, un développeur passionné par le développement web et modile et l'analyse des données.
+Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF depuis 2021, je suis passionné par le développement web et modile & l'analyse des données.
 
 ## Projets importants
 
