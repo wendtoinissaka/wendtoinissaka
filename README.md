@@ -17,8 +17,8 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 
 ## Contact
 
-- Email : [votre_email](mailto:ouedraogowendtoinissaka@gmail.com)
-- LinkedIn : [votre profil LinkedIn](https://www.linkedin.com/in/wendtoin-issaka-ouedraogo-ab92782a2)
+- Email : [ouedraogowendtoinissaka@gmail.como](mailto:ouedraogowendtoinissaka@gmail.com)
+- LinkedIn : [linkedin.com/in/wendtoin-issaka-ouedraogo](https://www.linkedin.com/in/wendtoin-issaka-ouedraogo-ab92782a2)
 
 ## Statistiques GitHub
 
