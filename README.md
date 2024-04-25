@@ -1,4 +1,5 @@
-![Statistiques GitHub](developer-working-Converti-1170x700.webp)
+<!-- ![Statistiques GitHub](developer-working-Converti-1170x700.webp) -->
+<img src="developer-working-Converti-1170x700.webp" alt="Statistiques GitHub" height="400" >
 
 
 
@@ -8,8 +9,9 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 
 ## Projets importants
 
-- [Projet 1](https://github.com/wendtoinissaka/projet_tutore_django_L2.git) : Projet tutoré L2 - Conception d'application de location avec python-DJANGO.
+- [Projet 1](https://github.com/wendtoinissaka/projet_tutore_django_L2.git)  : Projet tutoré L2 - Conception d'application de location avec python-DJANGO.[visiter le site](https://lacapacitee.onrender.com)
 - [Projet 2](https://github.com/wendtoinissaka/Decentralized-Project-Voting.git) : Conception d'application décentralisée de vote de projet.
+- [Projet 3](https://github.com/wendtoinissaka/projet_tutore_django_L2.git)  : toDo App avec react . [visiter le site](https://wendtoinissaka.github.io/todo-app-in-react/)
 
 ## Portfolio
 
