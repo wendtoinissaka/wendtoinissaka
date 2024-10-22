@@ -19,16 +19,19 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 ## Portfolio
 
 - [Portfolio en ligne](https://github.com/wendtoinissaka/wendtoinissaka/blob/main/README.md) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
-
+<!--
 ## Contact
 
 - Email : [ouedraogowendtoinissaka@gmail.como](mailto:ouedraogowendtoinissaka@gmail.com)
 - LinkedIn : [linkedin.com/in/wendtoin-issaka-ouedraogo](https://www.linkedin.com/in/wendtoin-issaka-ouedraogo-ab92782a2)
-
+-->
 ## Statistiques GitHub
 
-![Statistiques GitHub](lien_vers_vos_statistiques_github)
+ [![Statistiques GitHub](https://bad-apple-github-readme.vercel.app/api?username=wendtoinissaka&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wendtoinissaka&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Wendtoin Issaka's current streak](https://streak-stats.demolab.com/?user=wendtoinissaka&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 ## Réseaux sociaux
