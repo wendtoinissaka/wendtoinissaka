@@ -1,9 +1,11 @@
+
 <!-- ![Statistiques GitHub](developer-working-Converti-1170x700.webp) -->
 <img src="developer-working-Converti-1170x700.webp" alt="Statistiques GitHub" height="400" >
 
 
 
-# Bienvenue👋 sur mon profil GitHub !
+<!-- # Bienvenue👋 sur mon profil GitHub ! -->
+# Bienvenue sur mon profil GitHub !  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF depuis 2021, je suis passionné par le développement web et modile & l'analyse des données.
 
@@ -11,8 +13,9 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 
 - [Projet 1](https://github.com/wendtoinissaka/projet_tutore_django_L2.git)  : Projet tutoré L2 - Conception d'application de location avec python-DJANGO.[visiter le site](https://lacapacitee.onrender.com)
 - [Projet 2](https://github.com/wendtoinissaka/Decentralized-Project-Voting.git) : Conception d'application décentralisée de vote de projet.
-- [Projet 3](https://github.com/wendtoinissaka/projet_tutore_django_L2.git)  : toDo App avec react . [visiter le site](https://wendtoinissaka.github.io/todo-app-in-react/)
-
+- [Projet 3](https://wendtoinissaka.github.io/todo-app-in-react/)  : toDo App avec react . [visiter le site](https://wendtoinissaka.github.io/todo-app-in-react/)
+- [Projet 4](https://github.com/wendtoinissaka/wendtoinissaka/edit/main/README.md#L1C0)  : PREDICTION DU DESABONNEMENT DES CLIENTS BANCAIRES.
+- [Projet 5](https://github.com/wendtoinissaka/projet-tutore-L3-chatbot-sensibilisation-droits-et-lois-BF/tree/main/back) : chatbot-juridique-Burkina-Faso.
 ## Portfolio
 
 - [Portfolio en ligne](https://github.com/wendtoinissaka/wendtoinissaka/blob/main/README.md) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
