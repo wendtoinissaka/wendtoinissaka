@@ -18,7 +18,7 @@ Je suis **WENDTOIN ISSAKA OUEDRAOGO**, étudiant en Génie Logiciel à l'UVBF de
 - [Projet 5](https://github.com/wendtoinissaka/projet-tutore-L3-chatbot-sensibilisation-droits-et-lois-BF/tree/main/back) : chatbot-juridique-Burkina-Faso.
 ## Portfolio
 
-- [Portfolio en ligne](https://github.com/wendtoinissaka/wendtoinissaka/blob/main/README.md) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
+- [Portfolio en ligne](wendtoinissaka.github.io) : Consultez mon portfolio pour en savoir plus sur mes projets et mon expérience.
 <!--
 ## Contact
 
